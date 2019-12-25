@@ -3,20 +3,19 @@
 	"FileReferences": {
 		"Moc": "C97_Asu.moc3",
 		"Textures": [
-			"C97_Asu.2048/texture_00.png",
-			"C97_Asu.2048/texture_01.png"
+			"C97_Asu.2048/texture_00.png"
 		],
 		"DisplayInfo": "C97_Asu.cdi3.json"
 	},
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
+			"Name": "EyeBlink",
 			"Ids": []
 		},
 		{
 			"Target": "Parameter",
-			"Name": "EyeBlink",
+			"Name": "LipSync",
 			"Ids": []
 		}
 	]
