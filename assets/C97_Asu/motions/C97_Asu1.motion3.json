@@ -6,8 +6,8 @@
 		"Loop": true,
 		"AreBeziersRestricted": false,
 		"CurveCount": 37,
-		"TotalSegmentCount": 710,
-		"TotalPointCount": 1921,
+		"TotalSegmentCount": 708,
+		"TotalPointCount": 1919,
 		"UserDataCount": 0,
 		"TotalUserDataSize": 0
 	},
@@ -4754,15 +4754,9 @@
 		},
 		{
 			"Target": "PartOpacity",
-			"Id": "Part29",
+			"Id": "Part",
 			"Segments": [
 				0,
-				0,
-				0,
-				4.67,
-				0,
-				2,
-				4.7,
 				1,
 				0,
 				22.57,
@@ -4771,7 +4765,7 @@
 		},
 		{
 			"Target": "PartOpacity",
-			"Id": "Part",
+			"Id": "Part29",
 			"Segments": [
 				0,
 				0,

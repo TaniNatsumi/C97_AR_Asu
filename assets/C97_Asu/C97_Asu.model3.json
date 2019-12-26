@@ -5,7 +5,15 @@
 		"Textures": [
 			"C97_Asu.2048/texture_00.png"
 		],
-		"DisplayInfo": "C97_Asu.cdi3.json"
+		"Pose": "C97_Asu.pose3.json",
+		"DisplayInfo": "C97_Asu.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motions/C97_Asu2.motion3.json"
+				}
+			]
+		}
 	},
 	"Groups": [
 		{
@@ -18,5 +26,6 @@
 			"Name": "LipSync",
 			"Ids": []
 		}
-	]
+	],
+	"HitAreas": []
 }
